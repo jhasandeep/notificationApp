@@ -1,0 +1,20 @@
+/* Write your code here. */
+.bg-container {
+  padding: 20px;
+}
+
+.information {
+  color: #0b69ff;
+}
+
+.success {
+  color: #2dca73;
+}
+
+.warning {
+  color: #ffb800;
+}
+
+.error {
+  color: #ff0b37;
+}
